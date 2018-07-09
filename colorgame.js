@@ -18,7 +18,7 @@ for(var i = 0; i < modeButtons.length; i++){
         //     numSquares = 3;
         // }
         // else {
-        //     numSquares = 6;
+        //     numSquares = 6
         // }
         reset();
     })
